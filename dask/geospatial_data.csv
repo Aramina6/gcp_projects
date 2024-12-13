@@ -1,0 +1,5 @@
+latitude,longitude,wildfire_probability,cyclone_probability
+34.05,-118.24,0.2,0.3
+45.42,-75.69,0.1,0.05
+48.14,11.58,0.05,0.1
+19.07,72.87,0.15,0.2

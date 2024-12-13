@@ -1,0 +1,5 @@
+issuer,name,country,latitude,longitude,cost,revenue,ebitda,profit_margin
+CompanyA,Plant1,USA,34.05,-118.24,200000,500000,150000,0.3
+CompanyB,Plant2,Canada,45.42,-75.69,150000,400000,100000,0.25
+CompanyC,Plant3,Germany,48.14,11.58,250000,600000,200000,0.35
+CompanyD,Plant4,India,19.07,72.87,180000,450000,120000,0.28
